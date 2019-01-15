@@ -1,0 +1,34 @@
+.container{
+    border: 1px solid;
+}
+
+
+.pb-5{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: .6px solid;
+}
+
+.align-items-start{
+    min-height: 200px;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 2px;
+}
+
+
+.align-items-center{
+    min-height: 200px;
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.align-items-end{
+    min-height: 200px;
+    background-color: coral;
+    padding: 20px;
+}
+
+.row{
+    min-height: 100px;
+}
